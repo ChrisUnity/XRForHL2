@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 5387e4c111bac0844956b61ef23d60bc
+timeCreated: 1539919029
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 00-1
+    100002: 00-10
+    100004: 00-2
+    100006: 00-3
+    100008: 00-4
+    100010: 00-5
+    100012: 00-6
+    100014: 00-7
+    100016: 00-8
+    100018: 00-9
+    100020: 0000_P996A01_MD_ASM_ASM
+    100022: 000_P996A01_BACK_ASM
+    100024: 000_P996A01_FRONT_ASM
+    100026: 00_P996A01_FCAM_LENS
+    100028: 00_P996A01_FCAM_LENS-FOAM
+    100030: 00_P996A01_FRONT_DECO_DON_NET_1
+    100032: 00_P996A01_FRONT_DECO_DOWN
+    100034: 00_P996A01_FRONT_DECO_DOWN 1
+    100036: 00_P996A01_FRONT_DECO_DOWN_TYPE
+    100038: 00_P996A01_FRONT_DECO_UP
+    100040: 00_P996A01_FRONT_DECO_UP 1
+    100042: 00_P996A01_FRONT_GLASS
+    100044: 00_P996A01_POWER_KEY_ASM
+    100046: 00_P996A01_VOL_KEY_ASM
+    100048: Brep_1
+    100050: Brep_1 1
+    100052: Brep_1 10
+    100054: Brep_1 11
+    100056: Brep_1 12
+    100058: Brep_1 13
+    100060: Brep_1 14
+    100062: Brep_1 15
+    100064: Brep_1 16
+    100066: Brep_1 17
+    100068: Brep_1 18
+    100070: Brep_1 19
+    100072: Brep_1 2
+    100074: Brep_1 20
+    100076: Brep_1 21
+    100078: Brep_1 22
+    100080: Brep_1 23
+    100082: Brep_1 24
+    100084: Brep_1 25
+    100086: Brep_1 26
+    100088: Brep_1 27
+    100090: Brep_1 28
+    100092: Brep_1 29
+    100094: Brep_1 3
+    100096: Brep_1 30
+    100098: Brep_1 31
+    100100: Brep_1 32
+    100102: Brep_1 33
+    100104: Brep_1 34
+    100106: Brep_1 35
+    100108: Brep_1 36
+    100110: Brep_1 37
+    100112: Brep_1 38
+    100114: Brep_1 39
+    100116: Brep_1 4
+    100118: Brep_1 40
+    100120: Brep_1 41
+    100122: Brep_1 42
+    100124: Brep_1 43
+    100126: Brep_1 44
+    100128: Brep_1 45
+    100130: Brep_1 46
+    100132: Brep_1 47
+    100134: Brep_1 48
+    100136: Brep_1 49
+    100138: Brep_1 5
+    100140: Brep_1 50
+    100142: Brep_1 51
+    100144: Brep_1 52
+    100146: Brep_1 53
+    100148: Brep_1 54
+    100150: Brep_1 55
+    100152: Brep_1 56
+    100154: Brep_1 57
+    100156: Brep_1 58
+    100158: Brep_1 59
+    100160: Brep_1 6
+    100162: Brep_1 60
+    100164: Brep_1 61
+    100166: Brep_1 62
+    100168: Brep_1 63
+    100170: Brep_1 64
+    100172: Brep_1 65
+    100174: Brep_1 66
+    100176: Brep_1 67
+    100178: Brep_1 68
+    100180: Brep_1 69
+    100182: Brep_1 7
+    100184: Brep_1 70
+    100186: Brep_1 71
+    100188: Brep_1 8
+    100190: Brep_1 9
+    100192: Brep_1_Part1
+    100194: Brep_1_Part1 1
+    100196: Brep_1_Part1 10
+    100198: Brep_1_Part1 11
+    100200: Brep_1_Part1 12
+    100202: Brep_1_Part1 13
+    100204: Brep_1_Part1 14
+    100206: Brep_1_Part1 15
+    100208: Brep_1_Part1 16
+    100210: Brep_1_Part1 17
+    100212: Brep_1_Part1 18
+    100214: Brep_1_Part1 19
+    100216: Brep_1_Part1 2
+    100218: Brep_1_Part1 20
+    100220: Brep_1_Part1 21
+    100222: Brep_1_Part1 22
+    100224: Brep_1_Part1 23
+    100226: Brep_1_Part1 24
+    100228: Brep_1_Part1 25
+    100230: Brep_1_Part1 26
+    100232: Brep_1_Part1 27
+    100234: Brep_1_Part1 28
+    100236: Brep_1_Part1 29
+    100238: Brep_1_Part1 3
+    100240: Brep_1_Part1 30
+    100242: Brep_1_Part1 31
+    100244: Brep_1_Part1 32
+    100246: Brep_1_Part1 33
+    100248: Brep_1_Part1 34
+    100250: Brep_1_Part1 35
+    100252: Brep_1_Part1 36
+    100254: Brep_1_Part1 37
+    100256: Brep_1_Part1 38
+    100258: Brep_1_Part1 39
+    100260: Brep_1_Part1 4
+    100262: Brep_1_Part1 40
+    100264: Brep_1_Part1 41
+    100266: Brep_1_Part1 42
+    100268: Brep_1_Part1 43
+    100270: Brep_1_Part1 44
+    100272: Brep_1_Part1 45
+    100274: Brep_1_Part1 46
+    100276: Brep_1_Part1 47
+    100278: Brep_1_Part1 48
+    100280: Brep_1_Part1 49
+    100282: Brep_1_Part1 5
+    100284: Brep_1_Part1 50
+    100286: Brep_1_Part1 51
+    100288: Brep_1_Part1 52
+    100290: Brep_1_Part1 53
+    100292: Brep_1_Part1 54
+    100294: Brep_1_Part1 55
+    100296: Brep_1_Part1 56
+    100298: Brep_1_Part1 57
+    100300: Brep_1_Part1 58
+    100302: Brep_1_Part1 59
+    100304: Brep_1_Part1 6
+    100306: Brep_1_Part1 60
+    100308: Brep_1_Part1 61
+    100310: Brep_1_Part1 62
+    100312: Brep_1_Part1 63
+    100314: Brep_1_Part1 64
+    100316: Brep_1_Part1 65
+    100318: Brep_1_Part1 66
+    100320: Brep_1_Part1 67
+    100322: Brep_1_Part1 68
+    100324: Brep_1_Part1 69
+    100326: Brep_1_Part1 7
+    100328: Brep_1_Part1 70
+    100330: Brep_1_Part1 71
+    100332: Brep_1_Part1 8
+    100334: Brep_1_Part1 9
+    100336: Brep_2
+    100338: Brep_2 1
+    100340: Brep_2 2
+    100342: Brep_2 3
+    100344: Brep_2_Part1
+    100346: Brep_2_Part1 1
+    100348: Brep_2_Part1 2
+    100350: Brep_2_Part1 3
+    100352: Brep_3
+    100354: Brep_3_Part1
+    100356: Brep_4
+    100358: Brep_4_Part1
+    100360: Brep_5
+    100362: Brep_5_Part1
+    100364: Brep_6
+    100366: Brep_6_Part1
+    100368: Brep_7
+    100370: Brep_7_Part1
+    100372: Brep_8
+    100374: Brep_8_Part1
+    100376: Brep_9
+    100378: Brep_9_Part1
+    100380: MANIFOLD_SOLID_BREP_145344_1101
+    100382: NANO_SIM
+    100384: P996A01-CP
+    100386: P996A01_BACK-AL
+    100388: P996A01_BACK_CAM_LENS_TAPE
+    100390: P996A01_BATT_FILM
+    100392: P996A01_BATTERY_TYPE
+    100394: P996A01_CABLE_FOAM-T0_3
+    100396: P996A01_CAM_DECO
+    100398: P996A01_CAM_DECO-PC
+    100400: P996A01_CAM_DECO_ASM
+    100402: P996A01_CAM_FOAM
+    100404: P996A01_CAM_LENS
+    100406: P996A01_CAMERA_PORON
+    100408: P996A01_CAMERA_TYPE
+    100410: P996A01_DDBJ_1
+    100412: P996A01_DDBJ_2
+    100414: P996A01_FLASH_DECO
+    100416: P996A01_FLASH_DECO_TAPE
+    100418: P996A01_FRONT_TP_TYPE_2
+    100420: P996A01_FRONTCOVER_151101_ASM_1
+    100422: P996A01_FRONTCOVER_151102_ASM
+    100424: P996A01_JD_PORON_1
+    100426: P996A01_JD_PORON_2
+    100428: P996A01_JD_PORON_3
+    100430: P996A01_JD_PORON_4
+    100432: P996A01_JD_PORON_5
+    100434: P996A01_JD_PORON_6
+    100436: P996A01_JD_PORON_7
+    100438: P996A01_KEY_FOAM
+    100440: P996A01_MD_TYPE
+    100442: P996A01_MIC_DOWN_TPU
+    100444: P996A01_MIC_FOAM_1-T0_3
+    100446: P996A01_MIC_FOAM_1-T0_3 1
+    100448: P996A01_MIC_MESH
+    100450: P996A01_MIC_MESH-2
+    100452: P996A01_MIC_RUBBER-1
+    100454: P996A01_MIC_UP_TPU
+    100456: P996A01_MOTOR_FOAM-T0_3
+    100458: P996A01_NFC_FPC
+    100460: P996A01_POWER_KEY
+    100462: P996A01_POWER_KEY_TPU
+    100464: P996A01_SGM
+    100466: P996A01_SHIMOPIAN
+    100468: P996A01_SIM_COVER
+    100470: P996A01_SIM_COVER_ASM
+    100472: P996A01_SPK_DOWN_PORON_1
+    100474: P996A01_SPK_UP_PORON_1
+    100476: P996A01_SPK_UP_PORON_1 1
+    100478: P996A01_SPK_UP_PORON_2
+    100480: P996A01_TAB_PC
+    100482: P996A01_TAB_PC-2
+    100484: P996A01_VOL_KEY
+    100486: P996A01_VOL_KEY_TPU
+    100488: P996A01_VOL_KEY_TPU 1
+    100490: P996A01_ZB_TYPE
+    100492: P996A01_ZB_TYPE_2
+    100494: P996A01_ZHIWEN_TAPE
+    100496: //RootNode
+    100498: T-FLASH-CARD
+    400000: 00-1
+    400002: 00-10
+    400004: 00-2
+    400006: 00-3
+    400008: 00-4
+    400010: 00-5
+    400012: 00-6
+    400014: 00-7
+    400016: 00-8
+    400018: 00-9
+    400020: 0000_P996A01_MD_ASM_ASM
+    400022: 000_P996A01_BACK_ASM
+    400024: 000_P996A01_FRONT_ASM
+    400026: 00_P996A01_FCAM_LENS
+    400028: 00_P996A01_FCAM_LENS-FOAM
+    400030: 00_P996A01_FRONT_DECO_DON_NET_1
+    400032: 00_P996A01_FRONT_DECO_DOWN
+    400034: 00_P996A01_FRONT_DECO_DOWN 1
+    400036: 00_P996A01_FRONT_DECO_DOWN_TYPE
+    400038: 00_P996A01_FRONT_DECO_UP
+    400040: 00_P996A01_FRONT_DECO_UP 1
+    400042: 00_P996A01_FRONT_GLASS
+    400044: 00_P996A01_POWER_KEY_ASM
+    400046: 00_P996A01_VOL_KEY_ASM
+    400048: Brep_1
+    400050: Brep_1 1
+    400052: Brep_1 10
+    400054: Brep_1 11
+    400056: Brep_1 12
+    400058: Brep_1 13
+    400060: Brep_1 14
+    400062: Brep_1 15
+    400064: Brep_1 16
+    400066: Brep_1 17
+    400068: Brep_1 18
+    400070: Brep_1 19
+    400072: Brep_1 2
+    400074: Brep_1 20
+    400076: Brep_1 21
+    400078: Brep_1 22
+    400080: Brep_1 23
+    400082: Brep_1 24
+    400084: Brep_1 25
+    400086: Brep_1 26
+    400088: Brep_1 27
+    400090: Brep_1 28
+    400092: Brep_1 29
+    400094: Brep_1 3
+    400096: Brep_1 30
+    400098: Brep_1 31
+    400100: Brep_1 32
+    400102: Brep_1 33
+    400104: Brep_1 34
+    400106: Brep_1 35
+    400108: Brep_1 36
+    400110: Brep_1 37
+    400112: Brep_1 38
+    400114: Brep_1 39
+    400116: Brep_1 4
+    400118: Brep_1 40
+    400120: Brep_1 41
+    400122: Brep_1 42
+    400124: Brep_1 43
+    400126: Brep_1 44
+    400128: Brep_1 45
+    400130: Brep_1 46
+    400132: Brep_1 47
+    400134: Brep_1 48
+    400136: Brep_1 49
+    400138: Brep_1 5
+    400140: Brep_1 50
+    400142: Brep_1 51
+    400144: Brep_1 52
+    400146: Brep_1 53
+    400148: Brep_1 54
+    400150: Brep_1 55
+    400152: Brep_1 56
+    400154: Brep_1 57
+    400156: Brep_1 58
+    400158: Brep_1 59
+    400160: Brep_1 6
+    400162: Brep_1 60
+    400164: Brep_1 61
+    400166: Brep_1 62
+    400168: Brep_1 63
+    400170: Brep_1 64
+    400172: Brep_1 65
+    400174: Brep_1 66
+    400176: Brep_1 67
+    400178: Brep_1 68
+    400180: Brep_1 69
+    400182: Brep_1 7
+    400184: Brep_1 70
+    400186: Brep_1 71
+    400188: Brep_1 8
+    400190: Brep_1 9
+    400192: Brep_1_Part1
+    400194: Brep_1_Part1 1
+    400196: Brep_1_Part1 10
+    400198: Brep_1_Part1 11
+    400200: Brep_1_Part1 12
+    400202: Brep_1_Part1 13
+    400204: Brep_1_Part1 14
+    400206: Brep_1_Part1 15
+    400208: Brep_1_Part1 16
+    400210: Brep_1_Part1 17
+    400212: Brep_1_Part1 18
+    400214: Brep_1_Part1 19
+    400216: Brep_1_Part1 2
+    400218: Brep_1_Part1 20
+    400220: Brep_1_Part1 21
+    400222: Brep_1_Part1 22
+    400224: Brep_1_Part1 23
+    400226: Brep_1_Part1 24
+    400228: Brep_1_Part1 25
+    400230: Brep_1_Part1 26
+    400232: Brep_1_Part1 27
+    400234: Brep_1_Part1 28
+    400236: Brep_1_Part1 29
+    400238: Brep_1_Part1 3
+    400240: Brep_1_Part1 30
+    400242: Brep_1_Part1 31
+    400244: Brep_1_Part1 32
+    400246: Brep_1_Part1 33
+    400248: Brep_1_Part1 34
+    400250: Brep_1_Part1 35
+    400252: Brep_1_Part1 36
+    400254: Brep_1_Part1 37
+    400256: Brep_1_Part1 38
+    400258: Brep_1_Part1 39
+    400260: Brep_1_Part1 4
+    400262: Brep_1_Part1 40
+    400264: Brep_1_Part1 41
+    400266: Brep_1_Part1 42
+    400268: Brep_1_Part1 43
+    400270: Brep_1_Part1 44
+    400272: Brep_1_Part1 45
+    400274: Brep_1_Part1 46
+    400276: Brep_1_Part1 47
+    400278: Brep_1_Part1 48
+    400280: Brep_1_Part1 49
+    400282: Brep_1_Part1 5
+    400284: Brep_1_Part1 50
+    400286: Brep_1_Part1 51
+    400288: Brep_1_Part1 52
+    400290: Brep_1_Part1 53
+    400292: Brep_1_Part1 54
+    400294: Brep_1_Part1 55
+    400296: Brep_1_Part1 56
+    400298: Brep_1_Part1 57
+    400300: Brep_1_Part1 58
+    400302: Brep_1_Part1 59
+    400304: Brep_1_Part1 6
+    400306: Brep_1_Part1 60
+    400308: Brep_1_Part1 61
+    400310: Brep_1_Part1 62
+    400312: Brep_1_Part1 63
+    400314: Brep_1_Part1 64
+    400316: Brep_1_Part1 65
+    400318: Brep_1_Part1 66
+    400320: Brep_1_Part1 67
+    400322: Brep_1_Part1 68
+    400324: Brep_1_Part1 69
+    400326: Brep_1_Part1 7
+    400328: Brep_1_Part1 70
+    400330: Brep_1_Part1 71
+    400332: Brep_1_Part1 8
+    400334: Brep_1_Part1 9
+    400336: Brep_2
+    400338: Brep_2 1
+    400340: Brep_2 2
+    400342: Brep_2 3
+    400344: Brep_2_Part1
+    400346: Brep_2_Part1 1
+    400348: Brep_2_Part1 2
+    400350: Brep_2_Part1 3
+    400352: Brep_3
+    400354: Brep_3_Part1
+    400356: Brep_4
+    400358: Brep_4_Part1
+    400360: Brep_5
+    400362: Brep_5_Part1
+    400364: Brep_6
+    400366: Brep_6_Part1
+    400368: Brep_7
+    400370: Brep_7_Part1
+    400372: Brep_8
+    400374: Brep_8_Part1
+    400376: Brep_9
+    400378: Brep_9_Part1
+    400380: MANIFOLD_SOLID_BREP_145344_1101
+    400382: NANO_SIM
+    400384: P996A01-CP
+    400386: P996A01_BACK-AL
+    400388: P996A01_BACK_CAM_LENS_TAPE
+    400390: P996A01_BATT_FILM
+    400392: P996A01_BATTERY_TYPE
+    400394: P996A01_CABLE_FOAM-T0_3
+    400396: P996A01_CAM_DECO
+    400398: P996A01_CAM_DECO-PC
+    400400: P996A01_CAM_DECO_ASM
+    400402: P996A01_CAM_FOAM
+    400404: P996A01_CAM_LENS
+    400406: P996A01_CAMERA_PORON
+    400408: P996A01_CAMERA_TYPE
+    400410: P996A01_DDBJ_1
+    400412: P996A01_DDBJ_2
+    400414: P996A01_FLASH_DECO
+    400416: P996A01_FLASH_DECO_TAPE
+    400418: P996A01_FRONT_TP_TYPE_2
+    400420: P996A01_FRONTCOVER_151101_ASM_1
+    400422: P996A01_FRONTCOVER_151102_ASM
+    400424: P996A01_JD_PORON_1
+    400426: P996A01_JD_PORON_2
+    400428: P996A01_JD_PORON_3
+    400430: P996A01_JD_PORON_4
+    400432: P996A01_JD_PORON_5
+    400434: P996A01_JD_PORON_6
+    400436: P996A01_JD_PORON_7
+    400438: P996A01_KEY_FOAM
+    400440: P996A01_MD_TYPE
+    400442: P996A01_MIC_DOWN_TPU
+    400444: P996A01_MIC_FOAM_1-T0_3
+    400446: P996A01_MIC_FOAM_1-T0_3 1
+    400448: P996A01_MIC_MESH
+    400450: P996A01_MIC_MESH-2
+    400452: P996A01_MIC_RUBBER-1
+    400454: P996A01_MIC_UP_TPU
+    400456: P996A01_MOTOR_FOAM-T0_3
+    400458: P996A01_NFC_FPC
+    400460: P996A01_POWER_KEY
+    400462: P996A01_POWER_KEY_TPU
+    400464: P996A01_SGM
+    400466: P996A01_SHIMOPIAN
+    400468: P996A01_SIM_COVER
+    400470: P996A01_SIM_COVER_ASM
+    400472: P996A01_SPK_DOWN_PORON_1
+    400474: P996A01_SPK_UP_PORON_1
+    400476: P996A01_SPK_UP_PORON_1 1
+    400478: P996A01_SPK_UP_PORON_2
+    400480: P996A01_TAB_PC
+    400482: P996A01_TAB_PC-2
+    400484: P996A01_VOL_KEY
+    400486: P996A01_VOL_KEY_TPU
+    400488: P996A01_VOL_KEY_TPU 1
+    400490: P996A01_ZB_TYPE
+    400492: P996A01_ZB_TYPE_2
+    400494: P996A01_ZHIWEN_TAPE
+    400496: //RootNode
+    400498: T-FLASH-CARD
+    2300000: Brep_1_Part1
+    2300002: Brep_1_Part1 1
+    2300004: Brep_1_Part1 10
+    2300006: Brep_1_Part1 11
+    2300008: Brep_1_Part1 12
+    2300010: Brep_1_Part1 13
+    2300012: Brep_1_Part1 14
+    2300014: Brep_1_Part1 15
+    2300016: Brep_1_Part1 16
+    2300018: Brep_1_Part1 17
+    2300020: Brep_1_Part1 18
+    2300022: Brep_1_Part1 19
+    2300024: Brep_1_Part1 2
+    2300026: Brep_1_Part1 20
+    2300028: Brep_1_Part1 21
+    2300030: Brep_1_Part1 22
+    2300032: Brep_1_Part1 23
+    2300034: Brep_1_Part1 24
+    2300036: Brep_1_Part1 25
+    2300038: Brep_1_Part1 26
+    2300040: Brep_1_Part1 27
+    2300042: Brep_1_Part1 28
+    2300044: Brep_1_Part1 29
+    2300046: Brep_1_Part1 3
+    2300048: Brep_1_Part1 30
+    2300050: Brep_1_Part1 31
+    2300052: Brep_1_Part1 32
+    2300054: Brep_1_Part1 33
+    2300056: Brep_1_Part1 34
+    2300058: Brep_1_Part1 35
+    2300060: Brep_1_Part1 36
+    2300062: Brep_1_Part1 37
+    2300064: Brep_1_Part1 38
+    2300066: Brep_1_Part1 39
+    2300068: Brep_1_Part1 4
+    2300070: Brep_1_Part1 40
+    2300072: Brep_1_Part1 41
+    2300074: Brep_1_Part1 42
+    2300076: Brep_1_Part1 43
+    2300078: Brep_1_Part1 44
+    2300080: Brep_1_Part1 45
+    2300082: Brep_1_Part1 46
+    2300084: Brep_1_Part1 47
+    2300086: Brep_1_Part1 48
+    2300088: Brep_1_Part1 49
+    2300090: Brep_1_Part1 5
+    2300092: Brep_1_Part1 50
+    2300094: Brep_1_Part1 51
+    2300096: Brep_1_Part1 52
+    2300098: Brep_1_Part1 53
+    2300100: Brep_1_Part1 54
+    2300102: Brep_1_Part1 55
+    2300104: Brep_1_Part1 56
+    2300106: Brep_1_Part1 57
+    2300108: Brep_1_Part1 58
+    2300110: Brep_1_Part1 59
+    2300112: Brep_1_Part1 6
+    2300114: Brep_1_Part1 60
+    2300116: Brep_1_Part1 61
+    2300118: Brep_1_Part1 62
+    2300120: Brep_1_Part1 63
+    2300122: Brep_1_Part1 64
+    2300124: Brep_1_Part1 65
+    2300126: Brep_1_Part1 66
+    2300128: Brep_1_Part1 67
+    2300130: Brep_1_Part1 68
+    2300132: Brep_1_Part1 69
+    2300134: Brep_1_Part1 7
+    2300136: Brep_1_Part1 70
+    2300138: Brep_1_Part1 71
+    2300140: Brep_1_Part1 8
+    2300142: Brep_1_Part1 9
+    2300144: Brep_2_Part1
+    2300146: Brep_2_Part1 1
+    2300148: Brep_2_Part1 2
+    2300150: Brep_2_Part1 3
+    2300152: Brep_3_Part1
+    2300154: Brep_4_Part1
+    2300156: Brep_5_Part1
+    2300158: Brep_6_Part1
+    2300160: Brep_7_Part1
+    2300162: Brep_8_Part1
+    2300164: Brep_9_Part1
+    3300000: Brep_1_Part1
+    3300002: Brep_1_Part1 1
+    3300004: Brep_1_Part1 10
+    3300006: Brep_1_Part1 11
+    3300008: Brep_1_Part1 12
+    3300010: Brep_1_Part1 13
+    3300012: Brep_1_Part1 14
+    3300014: Brep_1_Part1 15
+    3300016: Brep_1_Part1 16
+    3300018: Brep_1_Part1 17
+    3300020: Brep_1_Part1 18
+    3300022: Brep_1_Part1 19
+    3300024: Brep_1_Part1 2
+    3300026: Brep_1_Part1 20
+    3300028: Brep_1_Part1 21
+    3300030: Brep_1_Part1 22
+    3300032: Brep_1_Part1 23
+    3300034: Brep_1_Part1 24
+    3300036: Brep_1_Part1 25
+    3300038: Brep_1_Part1 26
+    3300040: Brep_1_Part1 27
+    3300042: Brep_1_Part1 28
+    3300044: Brep_1_Part1 29
+    3300046: Brep_1_Part1 3
+    3300048: Brep_1_Part1 30
+    3300050: Brep_1_Part1 31
+    3300052: Brep_1_Part1 32
+    3300054: Brep_1_Part1 33
+    3300056: Brep_1_Part1 34
+    3300058: Brep_1_Part1 35
+    3300060: Brep_1_Part1 36
+    3300062: Brep_1_Part1 37
+    3300064: Brep_1_Part1 38
+    3300066: Brep_1_Part1 39
+    3300068: Brep_1_Part1 4
+    3300070: Brep_1_Part1 40
+    3300072: Brep_1_Part1 41
+    3300074: Brep_1_Part1 42
+    3300076: Brep_1_Part1 43
+    3300078: Brep_1_Part1 44
+    3300080: Brep_1_Part1 45
+    3300082: Brep_1_Part1 46
+    3300084: Brep_1_Part1 47
+    3300086: Brep_1_Part1 48
+    3300088: Brep_1_Part1 49
+    3300090: Brep_1_Part1 5
+    3300092: Brep_1_Part1 50
+    3300094: Brep_1_Part1 51
+    3300096: Brep_1_Part1 52
+    3300098: Brep_1_Part1 53
+    3300100: Brep_1_Part1 54
+    3300102: Brep_1_Part1 55
+    3300104: Brep_1_Part1 56
+    3300106: Brep_1_Part1 57
+    3300108: Brep_1_Part1 58
+    3300110: Brep_1_Part1 59
+    3300112: Brep_1_Part1 6
+    3300114: Brep_1_Part1 60
+    3300116: Brep_1_Part1 61
+    3300118: Brep_1_Part1 62
+    3300120: Brep_1_Part1 63
+    3300122: Brep_1_Part1 64
+    3300124: Brep_1_Part1 65
+    3300126: Brep_1_Part1 66
+    3300128: Brep_1_Part1 67
+    3300130: Brep_1_Part1 68
+    3300132: Brep_1_Part1 69
+    3300134: Brep_1_Part1 7
+    3300136: Brep_1_Part1 70
+    3300138: Brep_1_Part1 71
+    3300140: Brep_1_Part1 8
+    3300142: Brep_1_Part1 9
+    3300144: Brep_2_Part1
+    3300146: Brep_2_Part1 1
+    3300148: Brep_2_Part1 2
+    3300150: Brep_2_Part1 3
+    3300152: Brep_3_Part1
+    3300154: Brep_4_Part1
+    3300156: Brep_5_Part1
+    3300158: Brep_6_Part1
+    3300160: Brep_7_Part1
+    3300162: Brep_8_Part1
+    3300164: Brep_9_Part1
+    4300000: Brep_1_Part1
+    4300002: Brep_1_Part1
+    4300004: Brep_1_Part1
+    4300006: Brep_1_Part1
+    4300008: Brep_1_Part1
+    4300010: Brep_1_Part1
+    4300012: Brep_1_Part1
+    4300014: Brep_1_Part1
+    4300016: Brep_1_Part1
+    4300018: Brep_1_Part1
+    4300020: Brep_1_Part1
+    4300022: Brep_1_Part1
+    4300024: Brep_1_Part1
+    4300026: Brep_1_Part1
+    4300028: Brep_1_Part1
+    4300030: Brep_1_Part1
+    4300032: Brep_1_Part1
+    4300034: Brep_1_Part1
+    4300036: Brep_1_Part1
+    4300038: Brep_1_Part1
+    4300040: Brep_2_Part1
+    4300042: Brep_1_Part1
+    4300044: Brep_1_Part1
+    4300046: Brep_1_Part1
+    4300048: Brep_1_Part1
+    4300050: Brep_1_Part1
+    4300052: Brep_1_Part1
+    4300054: Brep_1_Part1
+    4300056: Brep_1_Part1
+    4300058: Brep_1_Part1
+    4300060: Brep_1_Part1
+    4300062: Brep_1_Part1
+    4300064: Brep_1_Part1
+    4300066: Brep_1_Part1
+    4300068: Brep_1_Part1
+    4300070: Brep_2_Part1
+    4300072: Brep_1_Part1
+    4300074: Brep_1_Part1
+    4300076: Brep_1_Part1
+    4300078: Brep_1_Part1
+    4300080: Brep_1_Part1
+    4300082: Brep_1_Part1
+    4300084: Brep_1_Part1
+    4300086: Brep_1_Part1
+    4300088: Brep_1_Part1
+    4300090: Brep_1_Part1
+    4300092: Brep_1_Part1
+    4300094: Brep_1_Part1
+    4300096: Brep_1_Part1
+    4300098: Brep_1_Part1
+    4300100: Brep_1_Part1
+    4300102: Brep_1_Part1
+    4300104: Brep_1_Part1
+    4300106: Brep_1_Part1
+    4300108: Brep_1_Part1
+    4300110: Brep_1_Part1
+    4300112: Brep_1_Part1
+    4300114: Brep_1_Part1
+    4300116: Brep_1_Part1
+    4300118: Brep_1_Part1
+    4300120: Brep_1_Part1
+    4300122: Brep_1_Part1
+    4300124: Brep_2_Part1
+    4300126: Brep_1_Part1
+    4300128: Brep_1_Part1
+    4300130: Brep_1_Part1
+    4300132: Brep_1_Part1
+    4300134: Brep_6_Part1
+    4300136: Brep_4_Part1
+    4300138: Brep_2_Part1
+    4300140: Brep_1_Part1
+    4300142: Brep_9_Part1
+    4300144: Brep_8_Part1
+    4300146: Brep_3_Part1
+    4300148: Brep_7_Part1
+    4300150: Brep_5_Part1
+    4300152: Brep_1_Part1
+    4300154: Brep_1_Part1
+    4300156: Brep_1_Part1
+    4300158: Brep_1_Part1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

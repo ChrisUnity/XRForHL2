@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: a204309b9603b7b48b4bba6b051b2e17
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_electrobox
+    100002: Back_electromotor
+    100004: Back_line1
+    100006: Back_line2
+    100008: bearing
+    100010: bearing 1
+    100012: bearing2
+    100014: cable
+    100016: cable1
+    100018: cable2
+    100020: Charge
+    100022: //RootNode
+    100024: Engine
+    100026: Engine_MeshPart0
+    100028: Engine_MeshPart1
+    100030: Engine_MeshPart2
+    100032: Front_electroBox1
+    100034: Front_electromotor
+    100036: Front_electromotor_MeshPart0
+    100038: Front_electromotor_MeshPart1
+    100040: Plan
+    100042: bearing02
+    400000: Back_electrobox
+    400002: Back_electromotor
+    400004: Back_line1
+    400006: Back_line2
+    400008: bearing
+    400010: bearing 1
+    400012: bearing2
+    400014: cable
+    400016: cable1
+    400018: cable2
+    400020: Charge
+    400022: //RootNode
+    400024: Engine
+    400026: Engine_MeshPart0
+    400028: Engine_MeshPart1
+    400030: Engine_MeshPart2
+    400032: Front_electroBox1
+    400034: Front_electromotor
+    400036: Front_electromotor_MeshPart0
+    400038: Front_electromotor_MeshPart1
+    400040: Plan
+    400042: bearing02
+    2300000: Back_electrobox
+    2300002: Back_electromotor
+    2300004: Back_line1
+    2300006: Back_line2
+    2300008: bearing 1
+    2300010: bearing2
+    2300012: cable1
+    2300014: cable2
+    2300016: Charge
+    2300018: Engine_MeshPart0
+    2300020: Engine_MeshPart1
+    2300022: Engine_MeshPart2
+    2300024: Front_electroBox1
+    2300026: Front_electromotor_MeshPart0
+    2300028: Front_electromotor_MeshPart1
+    2300030: Plan
+    2300032: bearing02
+    2300034: Front_electromotor
+    3300000: Back_electrobox
+    3300002: Back_electromotor
+    3300004: Back_line1
+    3300006: Back_line2
+    3300008: bearing 1
+    3300010: bearing2
+    3300012: cable1
+    3300014: cable2
+    3300016: Charge
+    3300018: Engine_MeshPart0
+    3300020: Engine_MeshPart1
+    3300022: Engine_MeshPart2
+    3300024: Front_electroBox1
+    3300026: Front_electromotor_MeshPart0
+    3300028: Front_electromotor_MeshPart1
+    3300030: Plan
+    3300032: bearing02
+    3300034: Front_electromotor
+    4300000: bearing
+    4300002: bearing2
+    4300004: Plan
+    4300006: Front_electromotor_MeshPart0
+    4300008: Front_electromotor_MeshPart1
+    4300010: Engine_MeshPart0
+    4300012: Engine_MeshPart1
+    4300014: Engine_MeshPart2
+    4300016: Front_electroBox1
+    4300018: Charge
+    4300020: Back_electromotor
+    4300022: Back_electrobox
+    4300024: cable1
+    4300026: cable2
+    4300028: Back_line1
+    4300030: Back_line2
+    4300032: bearing02
+    4300034: Front_electromotor
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 1ebe7119ac091d54e94442c2871539e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electrobox_back_mat
+    second: {fileID: 2100000, guid: e98f604fa1b0e0a428051cfb1f7ae36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electrobox_mat1
+    second: {fileID: 2100000, guid: 5fae282552a7c424fbb3562e6ce6e156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electromotor_back_mat
+    second: {fileID: 2100000, guid: 15fc1ab8dd2860044bc2bccf4cbc65f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electromotor_battery_mat
+    second: {fileID: 2100000, guid: fc0c602b3cd422048a1ba53d4b4caa61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasmotor_mat
+    second: {fileID: 2100000, guid: 52ff5e7c2242fdc4099b527ddbb4a540, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

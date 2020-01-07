@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: fd37fd94981f28c45928476f861e5390
+timeCreated: 1505716762
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: air_wire
+    100002: brake_disc01
+    100004: Center
+    100006: chair_back
+    100008: chair_front
+    100010: control
+    100012: door_B
+    100014: exhaust_pipe
+    100016: frame_down
+    100018: frame_up
+    100020: glass_back
+    100022: glass_F
+    100024: glass_L
+    100026: hood
+    100028: Left
+    100030: Left_handle_LF
+    100032: Left_left_part01
+    100034: Left_rearview_mirror_L02
+    100036: Left_taillight_L02
+    100038: Left_window_LB
+    100040: light_L
+    100042: logo
+    100044: logo2
+    100046: mirro
+    100048: Neishi
+    100050: polySurface625
+    100052: polySurface626
+    100054: polySurface627
+    100056: polySurface629
+    100058: polySurface630
+    100060: polySurface631
+    100062: polySurface632
+    100064: polySurface642
+    100066: polySurface658
+    100068: polySurface659
+    100070: prop
+    100072: rain_gutter
+    100074: rearview_mirror_L01
+    100076: rearview_mirror_L03
+    100078: shelf_B01
+    100080: shelf_F02
+    100082: shelf_F03
+    100084: shelf_F04
+    100086: shelf_F05
+    100088: shelf_F06
+    100090: shelf_F07
+    100092: shelf_F_Props
+    100094: shelf_L01
+    100096: shelf_L02
+    100098: shelf_T
+    100100: side
+    100102: //RootNode
+    100104: top_glass01
+    100106: top_glass02
+    100108: top_part01
+    100110: top_shelf
+    100112: web_F
+    100114: wheel01
+    100116: wheel_center01
+    100118: wheel_hub01
+    100120: wheel_LF
+    100122: wheel_screw02
+    100124: wiper
+    100126: wiper_B
+    100128: polySurface660
+    100130: polySurface661
+    100132: polySurface668
+    100134: polySurface669
+    100136: polySurface670
+    100138: polySurface671
+    100140: song_exterior
+    100142: "\u5BF9\u8C61001"
+    100144: "\u5BF9\u8C61002"
+    100146: "\u5BF9\u8C61003"
+    100148: "\u5BF9\u8C61004"
+    100150: "\u5BF9\u8C61006"
+    100152: side2
+    100154: 002
+    100156: 003
+    100158: 004
+    100160: 006
+    100162: Back_electrobox
+    100164: Back_electromotor
+    100166: Back_line1
+    100168: Back_line2
+    100170: bearing
+    100172: bearing 1
+    100174: bearing2
+    100176: cable
+    100178: cable1
+    100180: cable2
+    100182: Charge
+    100184: Chassis
+    100186: Engine
+    100188: Engine_MeshPart0
+    100190: Engine_MeshPart1
+    100192: Engine_MeshPart2
+    100194: Front_electroBox1
+    100196: Front_electromotor
+    100198: Front_electromotor_MeshPart0
+    100200: Front_electromotor_MeshPart1
+    100202: Plan
+    100204: wheel_LF 1
+    100206: polySurface672
+    100208: SmartCombine_0
+    100210: SmartCombine_1
+    100212: exhaust_pipe 1
+    100214: frame_down 1
+    100216: frame_up 1
+    100218: glass_L 1
+    100220: Left_handle_LF 1
+    100222: Left_rearview_mirror_L02 1
+    100224: Left_window_LB 1
+    100226: light_L 1
+    100228: light_L01
+    100230: light_L01 1
+    100232: light_L02
+    100234: light_L02 1
+    100236: light_L03
+    100238: light_L03 1
+    100240: light_L04
+    100242: light_L04 1
+    100244: Logo
+    100246: rearview_mirror_L01 1
+    100248: rearview_mirror_L01_part
+    100250: rearview_mirror_L01_part 1
+    100252: rearview_mirror_L03 1
+    100254: Right
+    100256: shelf_B02
+    100258: shelf_L01 1
+    100260: shelf_L03
+    100262: shelf_L03 1
+    100264: shelf_L04
+    100266: shelf_L04 1
+    100268: top_part01 1
+    100270: wheel_01
+    100272: wheel_01 1
+    100274: wheel_02
+    100276: wheel_02 1
+    100278: wheel_L
+    100280: wheel_R
+    100282: hub_change_01
+    100284: hub_change_02
+    100286: Wheel
+    100288: wheel01 1
+    100290: wheel02
+    100292: wheel02 1
+    100294: wheel_01_hub
+    100296: wheel_01_hub 1
+    100298: wheel_01_rubber
+    100300: wheel_01_rubber 1
+    100302: wheel_02_hub
+    100304: wheel_02_hub 1
+    100306: wheel_02_rubber
+    100308: wheel_02_rubber 1
+    100310: Wheel01
+    100312: Wheel02
+    100314: Wheel03
+    400000: air_wire
+    400002: brake_disc01
+    400004: Center
+    400006: chair_back
+    400008: chair_front
+    400010: control
+    400012: door_B
+    400014: exhaust_pipe
+    400016: frame_down
+    400018: frame_up
+    400020: glass_back
+    400022: glass_F
+    400024: glass_L
+    400026: hood
+    400028: Left
+    400030: Left_handle_LF
+    400032: Left_left_part01
+    400034: Left_rearview_mirror_L02
+    400036: Left_taillight_L02
+    400038: Left_window_LB
+    400040: light_L
+    400042: logo
+    400044: logo2
+    400046: mirro
+    400048: Neishi
+    400050: polySurface625
+    400052: polySurface626
+    400054: polySurface627
+    400056: polySurface629
+    400058: polySurface630
+    400060: polySurface631
+    400062: polySurface632
+    400064: polySurface642
+    400066: polySurface658
+    400068: polySurface659
+    400070: prop
+    400072: rain_gutter
+    400074: rearview_mirror_L01
+    400076: rearview_mirror_L03
+    400078: shelf_B01
+    400080: shelf_F02
+    400082: shelf_F03
+    400084: shelf_F04
+    400086: shelf_F05
+    400088: shelf_F06
+    400090: shelf_F07
+    400092: shelf_F_Props
+    400094: shelf_L01
+    400096: shelf_L02
+    400098: shelf_T
+    400100: side
+    400102: //RootNode
+    400104: top_glass01
+    400106: top_glass02
+    400108: top_part01
+    400110: top_shelf
+    400112: web_F
+    400114: wheel01
+    400116: wheel_center01
+    400118: wheel_hub01
+    400120: wheel_LF
+    400122: wheel_screw02
+    400124: wiper
+    400126: wiper_B
+    400128: polySurface660
+    400130: polySurface661
+    400132: polySurface668
+    400134: polySurface669
+    400136: polySurface670
+    400138: polySurface671
+    400140: song_exterior
+    400142: "\u5BF9\u8C61001"
+    400144: "\u5BF9\u8C61002"
+    400146: "\u5BF9\u8C61003"
+    400148: "\u5BF9\u8C61004"
+    400150: "\u5BF9\u8C61006"
+    400152: side2
+    400154: 002
+    400156: 003
+    400158: 004
+    400160: 006
+    400162: Back_electrobox
+    400164: Back_electromotor
+    400166: Back_line1
+    400168: Back_line2
+    400170: bearing
+    400172: bearing 1
+    400174: bearing2
+    400176: cable
+    400178: cable1
+    400180: cable2
+    400182: Charge
+    400184: Chassis
+    400186: Engine
+    400188: Engine_MeshPart0
+    400190: Engine_MeshPart1
+    400192: Engine_MeshPart2
+    400194: Front_electroBox1
+    400196: Front_electromotor
+    400198: Front_electromotor_MeshPart0
+    400200: Front_electromotor_MeshPart1
+    400202: Plan
+    400204: wheel_LF 1
+    400206: polySurface672
+    400208: SmartCombine_0
+    400210: SmartCombine_1
+    400212: exhaust_pipe 1
+    400214: frame_down 1
+    400216: frame_up 1
+    400218: glass_L 1
+    400220: Left_handle_LF 1
+    400222: Left_rearview_mirror_L02 1
+    400224: Left_window_LB 1
+    400226: light_L 1
+    400228: light_L01
+    400230: light_L01 1
+    400232: light_L02
+    400234: light_L02 1
+    400236: light_L03
+    400238: light_L03 1
+    400240: light_L04
+    400242: light_L04 1
+    400244: Logo
+    400246: rearview_mirror_L01 1
+    400248: rearview_mirror_L01_part
+    400250: rearview_mirror_L01_part 1
+    400252: rearview_mirror_L03 1
+    400254: Right
+    400256: shelf_B02
+    400258: shelf_L01 1
+    400260: shelf_L03
+    400262: shelf_L03 1
+    400264: shelf_L04
+    400266: shelf_L04 1
+    400268: top_part01 1
+    400270: wheel_01
+    400272: wheel_01 1
+    400274: wheel_02
+    400276: wheel_02 1
+    400278: wheel_L
+    400280: wheel_R
+    400282: hub_change_01
+    400284: hub_change_02
+    400286: Wheel
+    400288: wheel01 1
+    400290: wheel02
+    400292: wheel02 1
+    400294: wheel_01_hub
+    400296: wheel_01_hub 1
+    400298: wheel_01_rubber
+    400300: wheel_01_rubber 1
+    400302: wheel_02_hub
+    400304: wheel_02_hub 1
+    400306: wheel_02_rubber
+    400308: wheel_02_rubber 1
+    400310: Wheel01
+    400312: Wheel02
+    400314: Wheel03
+    2300000: air_wire
+    2300002: brake_disc01
+    2300004: chair_back
+    2300006: chair_front
+    2300008: control
+    2300010: exhaust_pipe
+    2300012: frame_down
+    2300014: frame_up
+    2300016: glass_back
+    2300018: glass_F
+    2300020: glass_L
+    2300022: hood
+    2300024: Left_handle_LF
+    2300026: Left_left_part01
+    2300028: Left_rearview_mirror_L02
+    2300030: Left_window_LB
+    2300032: light_L
+    2300034: logo
+    2300036: logo2
+    2300038: mirro
+    2300040: polySurface625
+    2300042: polySurface629
+    2300044: polySurface630
+    2300046: polySurface631
+    2300048: polySurface632
+    2300050: polySurface642
+    2300052: polySurface658
+    2300054: polySurface659
+    2300056: prop
+    2300058: rain_gutter
+    2300060: rearview_mirror_L01
+    2300062: rearview_mirror_L03
+    2300064: shelf_B01
+    2300066: shelf_F02
+    2300068: shelf_F03
+    2300070: shelf_F04
+    2300072: shelf_F05
+    2300074: shelf_F06
+    2300076: shelf_F07
+    2300078: shelf_F_Props
+    2300080: shelf_L01
+    2300082: shelf_L02
+    2300084: shelf_T
+    2300086: side
+    2300088: top_glass01
+    2300090: top_glass02
+    2300092: top_part01
+    2300094: top_shelf
+    2300096: web_F
+    2300098: wheel01
+    2300100: wheel_center01
+    2300102: wheel_hub01
+    2300104: wheel_screw02
+    2300106: wiper
+    2300108: wiper_B
+    2300110: polySurface660
+    2300112: polySurface661
+    2300114: polySurface668
+    2300116: polySurface669
+    2300118: polySurface670
+    2300120: polySurface671
+    2300122: "\u5BF9\u8C61001"
+    2300124: "\u5BF9\u8C61002"
+    2300126: "\u5BF9\u8C61003"
+    2300128: "\u5BF9\u8C61004"
+    2300130: "\u5BF9\u8C61006"
+    2300132: side2
+    2300134: 002
+    2300136: 003
+    2300138: 004
+    2300140: 006
+    2300142: Back_electrobox
+    2300144: Back_electromotor
+    2300146: Back_line1
+    2300148: Back_line2
+    2300150: bearing 1
+    2300152: bearing2
+    2300154: cable1
+    2300156: cable2
+    2300158: Charge
+    2300160: Engine_MeshPart0
+    2300162: Engine_MeshPart1
+    2300164: Engine_MeshPart2
+    2300166: Front_electroBox1
+    2300168: Front_electromotor_MeshPart0
+    2300170: Front_electromotor_MeshPart1
+    2300172: Plan
+    2300174: wheel_LF 1
+    2300176: polySurface672
+    2300178: SmartCombine_0
+    2300180: SmartCombine_1
+    2300182: wheel_LF
+    2300184: exhaust_pipe 1
+    2300186: frame_down 1
+    2300188: frame_up 1
+    2300190: glass_L 1
+    2300192: Left_handle_LF 1
+    2300194: Left_rearview_mirror_L02 1
+    2300196: Left_window_LB 1
+    2300198: light_L01
+    2300200: light_L01 1
+    2300202: light_L02
+    2300204: light_L02 1
+    2300206: light_L03
+    2300208: light_L03 1
+    2300210: light_L04
+    2300212: light_L04 1
+    2300214: rearview_mirror_L01 1
+    2300216: rearview_mirror_L01_part
+    2300218: rearview_mirror_L01_part 1
+    2300220: rearview_mirror_L03 1
+    2300222: shelf_B02
+    2300224: shelf_L01 1
+    2300226: shelf_L03
+    2300228: shelf_L03 1
+    2300230: shelf_L04
+    2300232: shelf_L04 1
+    2300234: top_part01 1
+    2300236: wheel_01
+    2300238: wheel_01 1
+    2300240: wheel_02
+    2300242: wheel_02 1
+    2300244: hub_change_01
+    2300246: hub_change_02
+    2300248: wheel_01_hub
+    2300250: wheel_01_hub 1
+    2300252: wheel_01_rubber
+    2300254: wheel_01_rubber 1
+    2300256: wheel_02_hub
+    2300258: wheel_02_hub 1
+    2300260: wheel_02_rubber
+    2300262: wheel_02_rubber 1
+    2300264: Wheel01
+    2300266: Wheel02
+    2300268: Wheel03
+    3300000: air_wire
+    3300002: brake_disc01
+    3300004: chair_back
+    3300006: chair_front
+    3300008: control
+    3300010: exhaust_pipe
+    3300012: frame_down
+    3300014: frame_up
+    3300016: glass_back
+    3300018: glass_F
+    3300020: glass_L
+    3300022: hood
+    3300024: Left_handle_LF
+    3300026: Left_left_part01
+    3300028: Left_rearview_mirror_L02
+    3300030: Left_window_LB
+    3300032: light_L
+    3300034: logo
+    3300036: logo2
+    3300038: mirro
+    3300040: polySurface625
+    3300042: polySurface629
+    3300044: polySurface630
+    3300046: polySurface631
+    3300048: polySurface632
+    3300050: polySurface642
+    3300052: polySurface658
+    3300054: polySurface659
+    3300056: prop
+    3300058: rain_gutter
+    3300060: rearview_mirror_L01
+    3300062: rearview_mirror_L03
+    3300064: shelf_B01
+    3300066: shelf_F02
+    3300068: shelf_F03
+    3300070: shelf_F04
+    3300072: shelf_F05
+    3300074: shelf_F06
+    3300076: shelf_F07
+    3300078: shelf_F_Props
+    3300080: shelf_L01
+    3300082: shelf_L02
+    3300084: shelf_T
+    3300086: side
+    3300088: top_glass01
+    3300090: top_glass02
+    3300092: top_part01
+    3300094: top_shelf
+    3300096: web_F
+    3300098: wheel01
+    3300100: wheel_center01
+    3300102: wheel_hub01
+    3300104: wheel_screw02
+    3300106: wiper
+    3300108: wiper_B
+    3300110: polySurface660
+    3300112: polySurface661
+    3300114: polySurface668
+    3300116: polySurface669
+    3300118: polySurface670
+    3300120: polySurface671
+    3300122: "\u5BF9\u8C61001"
+    3300124: "\u5BF9\u8C61002"
+    3300126: "\u5BF9\u8C61003"
+    3300128: "\u5BF9\u8C61004"
+    3300130: "\u5BF9\u8C61006"
+    3300132: side2
+    3300134: 002
+    3300136: 003
+    3300138: 004
+    3300140: 006
+    3300142: Back_electrobox
+    3300144: Back_electromotor
+    3300146: Back_line1
+    3300148: Back_line2
+    3300150: bearing 1
+    3300152: bearing2
+    3300154: cable1
+    3300156: cable2
+    3300158: Charge
+    3300160: Engine_MeshPart0
+    3300162: Engine_MeshPart1
+    3300164: Engine_MeshPart2
+    3300166: Front_electroBox1
+    3300168: Front_electromotor_MeshPart0
+    3300170: Front_electromotor_MeshPart1
+    3300172: Plan
+    3300174: wheel_LF 1
+    3300176: polySurface672
+    3300178: SmartCombine_0
+    3300180: SmartCombine_1
+    3300182: wheel_LF
+    3300184: exhaust_pipe 1
+    3300186: frame_down 1
+    3300188: frame_up 1
+    3300190: glass_L 1
+    3300192: Left_handle_LF 1
+    3300194: Left_rearview_mirror_L02 1
+    3300196: Left_window_LB 1
+    3300198: light_L01
+    3300200: light_L01 1
+    3300202: light_L02
+    3300204: light_L02 1
+    3300206: light_L03
+    3300208: light_L03 1
+    3300210: light_L04
+    3300212: light_L04 1
+    3300214: rearview_mirror_L01 1
+    3300216: rearview_mirror_L01_part
+    3300218: rearview_mirror_L01_part 1
+    3300220: rearview_mirror_L03 1
+    3300222: shelf_B02
+    3300224: shelf_L01 1
+    3300226: shelf_L03
+    3300228: shelf_L03 1
+    3300230: shelf_L04
+    3300232: shelf_L04 1
+    3300234: top_part01 1
+    3300236: wheel_01
+    3300238: wheel_01 1
+    3300240: wheel_02
+    3300242: wheel_02 1
+    3300244: hub_change_01
+    3300246: hub_change_02
+    3300248: wheel_01_hub
+    3300250: wheel_01_hub 1
+    3300252: wheel_01_rubber
+    3300254: wheel_01_rubber 1
+    3300256: wheel_02_hub
+    3300258: wheel_02_hub 1
+    3300260: wheel_02_rubber
+    3300262: wheel_02_rubber 1
+    3300264: Wheel01
+    3300266: Wheel02
+    3300268: Wheel03
+    4300000: wheel_hub01
+    4300002: wheel_screw02
+    4300004: wheel_center01
+    4300006: wheel01
+    4300008: brake_disc01
+    4300010: Left_rearview_mirror_L02
+    4300012: frame_down
+    4300014: frame_up
+    4300016: rearview_mirror_L03
+    4300018: Left_left_part01
+    4300020: Left_window_LB
+    4300022: Left_handle_LF
+    4300024: top_part01
+    4300026: shelf_L02
+    4300028: rearview_mirror_L01
+    4300030: shelf_L01
+    4300032: light_L
+    4300034: exhaust_pipe
+    4300036: glass_L
+    4300038: polySurface658
+    4300040: polySurface642
+    4300042: polySurface659
+    4300044: top_shelf
+    4300046: top_glass01
+    4300048: top_glass02
+    4300050: glass_F
+    4300052: shelf_F07
+    4300054: shelf_F02
+    4300056: shelf_F03
+    4300058: shelf_F04
+    4300060: shelf_F05
+    4300062: shelf_F06
+    4300064: shelf_B01
+    4300066: shelf_T
+    4300068: shelf_F_Props
+    4300070: wiper_B
+    4300072: web_F
+    4300074: glass_back
+    4300076: air_wire
+    4300078: polySurface625
+    4300080: polySurface631
+    4300082: polySurface632
+    4300084: polySurface629
+    4300086: polySurface630
+    4300088: hood
+    4300090: rain_gutter
+    4300092: prop
+    4300094: chair_back
+    4300096: chair_front
+    4300098: control
+    4300100: mirro
+    4300102: side
+    4300104: logo2
+    4300106: logo
+    4300108: wiper
+    4300110: polySurface660
+    4300112: polySurface661
+    4300114: polySurface670
+    4300116: polySurface671
+    4300118: polySurface668
+    4300120: polySurface669
+    4300122: "\u5BF9\u8C61001"
+    4300124: "\u5BF9\u8C61002"
+    4300126: "\u5BF9\u8C61003"
+    4300128: "\u5BF9\u8C61004"
+    4300130: "\u5BF9\u8C61006"
+    4300132: side2
+    4300134: 002
+    4300136: 003
+    4300138: 006
+    4300140: 004
+    4300142: wheel_LF
+    4300144: bearing
+    4300146: bearing2
+    4300148: Plan
+    4300150: Engine_MeshPart0
+    4300152: Engine_MeshPart1
+    4300154: Engine_MeshPart2
+    4300156: Front_electromotor_MeshPart0
+    4300158: Front_electromotor_MeshPart1
+    4300160: Charge
+    4300162: Front_electroBox1
+    4300164: Back_electromotor
+    4300166: Back_electrobox
+    4300168: cable1
+    4300170: cable2
+    4300172: Back_line1
+    4300174: Back_line2
+    4300176: polySurface672
+    4300178: SmartCombine_0
+    4300180: SmartCombine_1
+    4300182: rearview_mirror_L01_part
+    4300184: shelf_L03
+    4300186: shelf_L04
+    4300188: light_L01
+    4300190: light_L02
+    4300192: light_L03
+    4300194: light_L04
+    4300196: Left_rearview_mirror_L02
+    4300198: frame_up
+    4300200: frame_down
+    4300202: rearview_mirror_L03
+    4300204: Left_window_LB
+    4300206: Left_handle_LF
+    4300208: top_part01
+    4300210: rearview_mirror_L01
+    4300212: shelf_L01
+    4300214: exhaust_pipe
+    4300216: glass_L
+    4300218: rearview_mirror_L01_part
+    4300220: shelf_L03
+    4300222: shelf_L04
+    4300224: light_L01
+    4300226: light_L02
+    4300228: light_L03
+    4300230: light_L04
+    4300232: shelf_B02
+    4300234: wheel_02
+    4300236: wheel_01
+    4300238: wheel_02
+    4300240: wheel_01
+    4300242: hub_change_01
+    4300244: hub_change_02
+    4300246: wheel_02_rubber
+    4300248: wheel_02_hub
+    4300250: wheel_01_rubber
+    4300252: wheel_01_hub
+    4300254: wheel_02_rubber
+    4300256: wheel_02_hub
+    4300258: wheel_01_rubber
+    4300260: wheel_01_hub
+    4300262: Wheel01
+    4300264: Wheel02
+    4300266: Wheel03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
